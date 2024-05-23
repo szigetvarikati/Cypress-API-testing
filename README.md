@@ -43,9 +43,9 @@
 This project automates testing for a RESTful API using Cypress. It ensures the API's reliability by verifying various endpoints, including checking for correct status codes and confirming data integrity after CRUD operations (Create, Read, Update, Delete).
 
 <p align="center">
-  <img src="https://imgur.com/QyUdtqi.jpg" alt="tests for Comments" width=500px>
-  <img src="https://imgur.com/cYf58SN.jpg" alt="tests for Posts" width=500px>
-   <img src="https://imgur.com/H3oYOx0.jpg" alt="result of tests" width=600px>
+  <img src="https://imgur.com/QyUdtqi.jpg" alt="tests for Comments" width=700px>
+  <img src="https://imgur.com/cYf58SN.jpg" alt="tests for Posts" width=700px>
+   <img src="https://imgur.com/H3oYOx0.jpg" alt="result of tests" width=700px>
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
