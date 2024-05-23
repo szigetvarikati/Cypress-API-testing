@@ -1,8 +1,8 @@
-### Test Scenarios
+### Test Scenarios for Posts
 
 #### Create Post
 - Test method to create a new post.
-- Uses the POST /post endpoint.
+- Uses the POST /posts endpoint.
 - Verifies that the post is created successfully and all details are correct.
 
 #### Get All Posts
@@ -39,8 +39,3 @@
 - Test method to verify the behavior when attempting to delete a post with a non-existing ID.
 - Utilizes the DELETE /posts/{id} endpoint.
 - Verifies that the server responds with a '405 Method Not Allowed' status code.
-
-#### Test Post Details With Invalid ID
-- Test method to verify the behavior when retrieving post details using an invalid ID.
-- Utilizes the GET /post/{id} endpoint.
-- Verifies that the server responds with a '404 Not Found' status code.
