@@ -1,10 +1,5 @@
-//import { createSnapshot, restoreSnapshot } from '../fixtures/snapshot';
-
-//createSnapshot();
-
 describe('posts APIs', () => {
   beforeEach(() => {
-    // restoreSnapshot();
   });
 });
 
