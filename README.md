@@ -43,9 +43,9 @@
 This project automates testing for a RESTful API using Cypress. It ensures the API's reliability by verifying various endpoints, including checking for correct status codes and confirming data integrity after CRUD operations (Create, Read, Update, Delete).
 
 <p align="center">
-  <img src="https://imgur.com/cYf58SN.jpg" alt="tests for Posts" width=600px>
-  <img src="https://imgur.com/QyUdtqi.jpg" alt="tests for Comments" width=800px>
-   <img src="https://imgur.com/H3oYOx0.jpg" alt="result of tests" width=800px>
+  <img src="https://imgur.com/QyUdtqi.jpg" alt="tests for Comments" width=500px>
+  <img src="https://imgur.com/cYf58SN.jpg" alt="tests for Posts" width=500px>
+   <img src="https://imgur.com/H3oYOx0.jpg" alt="result of tests" width=600px>
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +54,7 @@ This project automates testing for a RESTful API using Cypress. It ensures the A
 [![Cypress][Cypress]][Cypress-url] <br>
 A powerful end-to-end testing framework for web applications, providing a rich set of features for writing and running tests. <p>
 [![Javascript][Javascript.js]][Javascript-url] <br>
-A typed superset of JavaScript that compiles to plain JavaScript, providing static type-checking capabilities and improved developer productivity. <p>
+JavaScript is a high-level, versatile programming language. <p>
 [![Node.js][Node.js]][Node.js-url] <br>
 A JavaScript runtime environment used to execute Cypress tests and manage project dependencies.
 
