@@ -30,11 +30,6 @@
 - Uses the DELETE /posts/{id} endpoint.
 - Verifies that the post is deleted successfully.
 
-#### Check Post Deletion
-- Test method to check if a post is deleted.
-- Uses the GET /post/{id} endpoint.
-- Verifies that the post returns a '404 Not Found' status code after deletion.
-
 #### Test Delete Post When ID Does Not Exist
 - Test method to verify the behavior when attempting to delete a post with a non-existing ID.
 - Utilizes the DELETE /posts/{id} endpoint.
